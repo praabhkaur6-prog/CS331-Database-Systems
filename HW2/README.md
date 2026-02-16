@@ -13,4 +13,5 @@ Article Title – [SQL] How to Use GROUP BY and Window Function in the same SELE
 
 Article Title –WHERE vs HAVING in SQL: Master the Filter Game Like a Pro | by Arpit choubey | Medium
 
-LLM Disclosure
+FOLDER CREATED ON FEBRUARY 15, 2026
+
