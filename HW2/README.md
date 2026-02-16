@@ -6,7 +6,7 @@ Files Included
 Individual_1_HW2_PrabhjotKaur.sql
 ToDoList.xlsx
 Presentation Video
-Google Drive Link: PASTE_YOUR_VIDEO_LINK_HERE
+Google Drive Link: [VIDEO](https://drive.google.com/file/d/1hjEkmpr5i8_n5LAuhFyJckxN_PD5aG6s/view)
 
 Medium Articles
 Article Title – [SQL] How to Use GROUP BY and Window Function in the same SELECT statement? | by Yi-Ning Huang | Medium
