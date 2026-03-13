@@ -4,14 +4,17 @@
 
 This project includes Chapter 6 SQL queries, a problem proposition, and a presentation explaining the work done using the **Northwinds database**.
 
+# Youtube Video: [Presentation video][https://youtu.be/80sMV8yFEFY]
+
 ## Work Division
 
 **Andrew Laboy**
-- Write and modify SQL queries
+- Write and modify chapter 6 Exercises
 - Create the problem proposition
 
 **Prabhjot Kaur**
 - Create the PowerPoint presentation
+- Modified chapter 6 Examples, ToDolist 
 - Record the presentation video and explain the queries
 
 ## Files Included
