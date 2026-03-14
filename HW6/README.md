@@ -8,6 +8,10 @@ This project includes Chapter 6 SQL queries, a problem proposition, and a presen
 
 [Presentation video][https://youtu.be/80sMV8yFEFY]
 
+# Presentation Link:
+
+[PPT link][https://1drv.ms/p/c/140cc54b4ee57103/IQDBqk_PzsP_TZiF65j6EYS8AaPHKJbOSbnEaQT6ORh3djw?e=54XuCb]
+
 ## Work Division
 
 **Andrew Laboy**
