@@ -2,33 +2,36 @@
 
 **Prabhjot Kaur and Andrew Laboy**
 
-This project includes Chapter 6 SQL queries, a problem proposition, and a presentation explaining the work done using the **Northwinds database**.
+This project includes Chapter 6 SQL queries, problem propositions, and a presentation explaining the work done using the **Northwinds2024Student database**.
 
-# Youtube Video: 
+# Youtube Video
 
-[Presentation video][https://youtu.be/80sMV8yFEFY]
+[Presentation video](https://youtu.be/80sMV8yFEFY)
 
-# Presentation Link:
+# Presentation Link
 
-[PPT link][https://1drv.ms/p/c/140cc54b4ee57103/IQDBqk_PzsP_TZiF65j6EYS8AaPHKJbOSbnEaQT6ORh3djw?e=54XuCb]
+[PPT link](https://1drv.ms/p/c/140cc54b4ee57103/IQDBqk_PzsP_TZiF65j6EYS8AaPHKJbOSbnEaQT6ORh3djw?e=54XuCb)
 
 ## Work Division
 
 **Andrew Laboy**
-- Write and modify chapter 6 Exercises
-- Create the problem proposition
+- Wrote and modified the Chapter 6 SQL exercise queries  
+- Developed the problem propositions describing the purpose of each query  
+- Assisted with testing queries in the Northwinds2024Student database  
 
 **Prabhjot Kaur**
-- Create the PowerPoint presentation
-- Modified chapter 6 Examples, ToDolist 
-- Record the presentation video and explain the queries
+- Designed and organized the PowerPoint presentation  
+- Modified and tested the Chapter 6 example queries and completed the ToDo list tasks  
+- Recorded the presentation video and provided explanations for the SQL queries  
 
 ## Files Included
 
-- `queries.sql` – SQL queries for the assignment  
-- `proposition.txt` – Description of the problem being solved  
-- `presentation.pptx` – PowerPoint explaining the project  
-- `presentation.mp4` – Recorded presentation walkthrough  
+- `Individual_PPG_2_HW6_Exercises_PrabhjotKaur.sql` – SQL exercise queries for the assignment  
+- `Individual_PPG_2_HW6_Examples_PrabhjotKaur.sql` – SQL example queries for the assignment  
+- `ToDoList_HW6_CSS311.xlsx` – Task list for the assignment  
+- [PPT link](https://1drv.ms/p/c/140cc54b4ee57103/IQDBqk_PzsP_TZiF65j6EYS8AaPHKJbOSbnEaQT6ORh3djw?e=54XuCb) – PowerPoint explaining the project  
+- [Presentation video](https://youtu.be/80sMV8yFEFY) – Recorded presentation walkthrough  
 
 ## Database Used
+
 Northwinds2024Student
