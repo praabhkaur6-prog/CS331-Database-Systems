@@ -2,7 +2,7 @@
 
 **Prabhjot Kaur and Andrew Laboy**
 
-This project includes Chapter 6 SQL queries, problem propositions, and a presentation explaining the work done using the **Northwinds2024Student database**.
+This project includes Chapter 6 SQL queries, problem propositions, and a presentation explaining the work done using the Northwinds2024Student database.
 
 # Youtube Video
 
